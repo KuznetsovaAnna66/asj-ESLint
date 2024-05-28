@@ -1,0 +1,26 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuznetsovaAnna66/ajs-homeworks.git#master"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Anna Kuznetsova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuznetsovaAnna66/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/KuznetsovaAnna66/ajs-homeworks/tree/master#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
